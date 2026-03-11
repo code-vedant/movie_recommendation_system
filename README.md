@@ -46,7 +46,7 @@ This project is my **first Machine Learning project**, built to understand the f
 
 ## 📊 Dataset
 
-Dataset used: **TMDB Movie Dataset**
+Dataset used: **movies.csv**
 
 It contains information like:
 - movie title
